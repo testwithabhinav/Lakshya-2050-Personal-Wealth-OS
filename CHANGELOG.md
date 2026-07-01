@@ -55,3 +55,13 @@ Sprint 0 Completed ✅
 
 Next Sprint:
 Sprint 1 – Financial Engine
+
+## Unreleased
+
+### Added
+
+- Implemented PWOS-101 Income Engine
+- Finalized Income table structure
+- Added Gross Amount, Tax Deducted and Net Amount workflow
+- Net Amount calculated automatically
+- Locked PWOS Product Philosophy v1.0

@@ -1,0 +1,13 @@
+# Windows
+Thumbs.db
+Desktop.ini
+
+# macOS
+.DS_Store
+
+# Office temp files
+~$*
+
+# Excel temporary files
+~$*.xlsx
+~$*.xls
